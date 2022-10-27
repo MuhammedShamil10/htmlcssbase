@@ -1,0 +1,32 @@
+:root{
+    --black:rgb(46, 3, 3);
+}
+body{
+    background-color:rgb(137, 201, 246);
+}
+h1{
+    border-style: solid;
+    border-width:5px 10px;
+    border-color: black;
+    color:rgb(171, 117, 247);
+    text-align:center;
+    background-color:rgb(244, 188, 114)
+}
+p{
+    color:var(--black)
+    background-color:rgb(4, 73, 98);
+}
+
+.jh{
+    color: rgb(99, 99, 135);
+}
+.font{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+.round{
+    border-radius: 60%;
+    border-style: inset;
+    border-color:var(--black);
+    border-width: 20px;
+}
+

@@ -1,0 +1,25 @@
+h1{
+    border: 10px;
+    border-color: blue;
+    border-style: solid;
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.g1{background-color:antiquewhite}
+.g2{background-color:rgb(215, 134, 28)}
+.g3{background-color:rgb(216, 27, 33)}
+.g4{background-color:rgb(231, 67, 143)}
+.container{
+    border: 5px;
+    border-style: solid;
+    border-color: red;
+    font-size:100%;
+    max-height: ;
+    width:100%;
+    background-color:rgb(23, 183, 111);
+    display:grid;
+    grid-template-columns: auto 70%;
+    grid-template-rows:50% 50%;
+
+}
